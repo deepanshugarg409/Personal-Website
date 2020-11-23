@@ -161,15 +161,7 @@ nav ul ul ul li {
       top:-60px; 
       left:170px; 
   }
-li > a:only-child:after { content: ''; }
-      /* Change menu item's width to 100% */
-      nav ul li {
-          display: block;
-          width: 100%;
-          padding: 5px 0;
-      }
-
-      nav ul ul .toggle,
+nav ul ul .toggle,
       nav ul ul a {
           padding: 0 40px;
       }
