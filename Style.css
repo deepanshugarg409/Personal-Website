@@ -302,16 +302,6 @@ li > a:only-child:after { content: ''; }
           padding-top: 8px !important;
       }
   }
-  
-  @media all and (max-width : 330px) {
-  
-      nav ul li {
-          display:block;
-          width: 94%;
-      }
-  
-  }
-  
   .logo h1 a,.logo h1 a:hover {
       color: #fff;
       text-transform: capitalize;
